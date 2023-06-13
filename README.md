@@ -48,7 +48,7 @@ The following files are present inside datasets folder:
 - Conclusion
 
 ## Technologies Used
-- Python - version 3.8.8
+- Python - version 3.10.9
 - Numpy - version 1.20.1
 - Pandas - version 1.2.4
 - Matplotlib - version 3.3.4
